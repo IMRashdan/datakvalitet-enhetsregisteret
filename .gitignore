@@ -1,0 +1,10 @@
+# Rådata og database (lastes ned/bygges lokalt)
+data/
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
