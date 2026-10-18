@@ -1,0 +1,13 @@
+organisasjonsnummer,navn,organisasjonsform.kode,naeringskode1.kode,forretningsadresse.landkode,forretningsadresse.postnummer,forretningsadresse.poststed,stiftelsesdato,registreringsdatoenhetsregisteret,antallAnsatte,harRegistrertAntallAnsatte
+910000012,Fjordkaffe AS,AS,56.101,NO,0150,OSLO,2015-03-01,2015-03-10,5,true
+910000013,Feil Kontrollsiffer AS,AS,62.010,NO,0150,OSLO,2015-03-01,2015-03-10,,false
+910000020,Uten Postnummer AS,AS,62.010,NO,,OSLO,2015-03-01,2015-03-10,,false
+910000039,Kort Postnummer AS,AS,62.010,NO,150,OSLO,2015-03-01,2015-03-10,,false
+910000047,Fremtidig Stiftelse AS,AS,62.010,NO,0150,OSLO,2099-01-01,2015-01-01,,false
+910000055,Uten Næringskode AS,AS,,NO,0150,OSLO,2015-03-01,2015-03-10,,false
+910000063,Dobbel Enkeltpersonforetak,ENK,62.010,NO,0150,OSLO,2015-03-01,2015-03-10,,false
+910000063,Dobbel Enkeltpersonforetak Igjen,ENK,62.010,NO,0150,OSLO,2015-03-01,2015-03-10,,false
+910000071,Ansatte Uten Registrering ANS,ANS,6201,NO,0150,OSLO,2015-03-01,2015-03-10,12,false
+910000098,FJORDKAFFE AS,AS,56.101,NO,0150,OSLO,2016-05-01,2016-05-02,,false
+910000101,Feil Poststed AS,AS,62.010,NO,0150,BERGEN,2015-03-01,2015-03-10,,false
+910000128,Ukjent Postnummer AS,AS,62.010,NO,9999,UKJENT,2015-03-01,2015-03-10,,false
