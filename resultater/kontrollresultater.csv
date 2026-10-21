@@ -1,0 +1,13 @@
+kontroll_id,navn,dimensjon,kontrollert,avvik,andel,eksempler
+G01,Gyldig organisasjonsnummer,Gyldighet,1177715,0,0.000000,
+U01,Unikt organisasjonsnummer,Unikhet,1177715,0,0.000000,
+U02,Mulige duplikater (navn + postnummer),Unikhet,1114545,811,0.000728,985025118 938383030 935412412 955780698 936295673
+K01,Forretningsadresse har postnummer,Kompletthet,1114545,0,0.000000,
+K02,Aksjeselskap har næringskode,Kompletthet,433619,672,0.001550,928938565 938648603 938641005 938576564 938596263
+G02,Postnummer har fire sifre,Gyldighet,1114545,0,0.000000,
+G03,Gyldig format på næringskode,Gyldighet,1141389,0,0.000000,
+G04,Stiftelsesdato er ikke i fremtiden,Gyldighet,678023,0,0.000000,
+S01,Stiftet før registrering,Konsistens,678023,481,0.000709,879270642 971336285 976522575 971463139 870588712
+S02,Ansatte uten registrert ansattforhold,Konsistens,72077,0,0.000000,
+S03,Postnummer finnes i Postens register,Konsistens,1114545,0,0.000000,
+S04,Poststed samsvarer med postnummer,Konsistens,1114545,459,0.000412,934463722 925751642 999644562 990759480 921106777
